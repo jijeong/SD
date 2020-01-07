@@ -10,8 +10,10 @@ int main(int argc, char* argv[])
     int num1, num2, num3;
     char operator;
 
+<<<<<<< HEAD
     printf("Please enter a expression: ");
-    printf("¼ö½ÄÀ» ÀÔ·ÂÇÏ¼¼¿ä : ");
+    printf("Please enter a expression ìˆ˜ì‹ ìž…ë ¥ (ex> 1 + 2):  ");
+
     scanf("%d %c $d", &a, &operator, &b);
 
     switch (operator)
