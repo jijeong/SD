@@ -34,4 +34,8 @@ int main(int argc, char* argv[])
             c = div(a,b);
             break;      
     }
+
+    printf("result is%03d.\n", result);
+
+    return 0;
 }
