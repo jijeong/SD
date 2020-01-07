@@ -34,8 +34,4 @@ int main(int argc, char* argv[])
             c = div(a,b);
             break;      
     }
-
-    printf("결과는 %d입니다..\n");
-
-    return 0;
 }
